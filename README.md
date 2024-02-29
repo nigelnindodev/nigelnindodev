@@ -7,6 +7,6 @@
 
 - Spent majority of my time most writing Scala, and learning Rust in my spare time. 
 
-- I specialize in building in distributed systems, but talk to me about anything tech. Currently also working on [full stack development with HTMX.](https://github.com/nigelnindodev/BunHtmxFullStack)
+- I specialize in architecture and coding of asynchronous distributed systems, but talk to me about anything tech. Currently also working on [full stack development with HTMX.](https://github.com/nigelnindodev/BunHtmxFullStack)
 
 - Find my pre-2022 work [here (2FA locked profile)](https://github.com/nigelnindo)
