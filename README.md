@@ -3,9 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- Currently working with Typescript(both Node & Bun runtime), Python & Go. 
-
-- Spent majority of my time most writing Scala, and learning Rust in my spare time. 
+- Currently working with Typescript(both Node & Bun runtimes), Python & Go. But Scala is my favorite language.
 
 - I specialize in architecture and coding of asynchronous distributed systems, but talk to me about anything tech. Currently also working on [full stack development with HTMX.](https://github.com/nigelnindodev/BunHtmxFullStack)
 
