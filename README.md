@@ -5,4 +5,4 @@
 
 - Find my pre-2022 work [here (2FA locked profile)](https://github.com/nigelnindo)
 - Working on resilient, event-driven and distributed systems with scalable backend architecture — think async messaging, streaming pipelines, infrastructure as code
-- I do front end sometime
+- I do front end sometimes
